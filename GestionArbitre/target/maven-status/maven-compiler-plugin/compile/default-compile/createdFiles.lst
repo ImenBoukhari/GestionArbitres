@@ -1,0 +1,10 @@
+com\example\GestionArbitre\repository\RoleRepository.class
+com\example\GestionArbitre\security\CustomUserDetailsService.class
+com\example\GestionArbitre\payload\Login.class
+com\example\GestionArbitre\repository\UserRepository.class
+com\example\GestionArbitre\model\Role.class
+com\example\GestionArbitre\controller\AuthController.class
+com\example\GestionArbitre\model\User.class
+com\example\GestionArbitre\config\SecurityConfig.class
+com\example\GestionArbitre\payload\SignUp.class
+com\example\GestionArbitre\model\User$UserBuilder.class
